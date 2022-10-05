@@ -1,1 +1,1 @@
-I am strivvingg to be a better SE
+I am striving to be a better SE
