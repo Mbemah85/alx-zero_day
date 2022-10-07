@@ -1,1 +1,1 @@
-My first readme
+I am striving to be a better SE
